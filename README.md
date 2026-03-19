@@ -78,9 +78,9 @@ I take particular care in writing **clean, maintainable code** and I'm always lo
 
 <div align="center">
 
-![Hyprland](https://img.shields.io/badge/HYPRLAND-1e1e2e?style=for-the-badge&logo=linux&logoColor=white)
-![CPU](https://img.shields.io/badge/CPU-I5--14400F-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![GPU](https://img.shields.io/badge/GPU-RX%209060%20XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Linux-Hyprland-1e1e2e?style=for-the-badge&logo=linux&logoColor=white)
+![CPU](https://img.shields.io/badge/CPU-I3--jsp-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![GPU](https://img.shields.io/badge/GPU-GTX%201050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![RAM](https://img.shields.io/badge/RAM-16GB%20DDR4-4B9CD3?style=for-the-badge&logo=crucial&logoColor=white)
 
 </div>
@@ -92,7 +92,7 @@ I take particular care in writing **clean, maintainable code** and I'm always lo
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-Impossibol-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/TON_ID_DISCORD)
-[![Email](https://img.shields.io/badge/Email-ton@mail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton@mail.com)
+[![Email](https://img.shields.io/badge/Email-impossibol004.pro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton@mail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Impossibol-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Impossibol)
 
 </div>
