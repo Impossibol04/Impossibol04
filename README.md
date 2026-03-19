@@ -69,13 +69,13 @@ I take particular care in writing **clean, maintainable code** and I'm always lo
 
 ## 📂 Featured Projects
 
-> *A selection of my most significant work.*
+> 🚧 Projects coming soon — currently working on private repositories.
 
-| Project | Description | Stack |
+ Project | Description | Stack |
 |--------|-------------|-------|
-| 🤖 **[Mayssou]** | Discord bot with advanced moderation & custom command system | `JavaScript` `node.js` |
-| 🔍 **[Project Name]** | Security-focused tool for [brief description] | `Python` |
-| ⚙️ **[Project Name]** | Automation script for [brief description] | `Python` |
+| 🤖 **Mayssou** | Discord bot with advanced moderation & custom command system | `JavaScript` `Node.js` |
+| 🌐 **[Coming Soon]** | Personal website — currently in development | `HTML` `CSS` `JavaScript` |
+| 🔐 **[Coming Soon]** | Cybersecurity project — in progress | `Python` |
 
 ---
 
