@@ -73,7 +73,7 @@ I take particular care in writing **clean, maintainable code** and I'm always lo
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🤖 **[Project Name]** | Discord bot with advanced moderation & custom command system | `Python` `discord.py` |
+| 🤖 **[Mayssou]** | Discord bot with advanced moderation & custom command system | `JavaScript` `node.js` |
 | 🔍 **[Project Name]** | Security-focused tool for [brief description] | `Python` |
 | ⚙️ **[Project Name]** | Automation script for [brief description] | `Python` |
 
@@ -96,7 +96,6 @@ I take particular care in writing **clean, maintainable code** and I'm always lo
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-Impossibol-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/TON_ID_DISCORD)
 [![Email](https://img.shields.io/badge/Email-impossibol004.pro@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton@mail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Impossibol-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Impossibol)
 
