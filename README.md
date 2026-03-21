@@ -136,7 +136,7 @@ J'accorde une attention particulière à l'écriture d'un **code propre et maint
 <div align="center">
 
 ![Hyprland](https://img.shields.io/badge/Linux-Hyprland-1e1e2e?style=for-the-badge&logo=linux&logoColor=white)
-![CPU](https://img.shields.io/badge/CPU-I3--jsp-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![CPU](https://img.shields.io/badge/CPU-I3--8100-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![GPU](https://img.shields.io/badge/GPU-GTX%201050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![RAM](https://img.shields.io/badge/RAM-16GB%20DDR4-4B9CD3?style=for-the-badge&logo=crucial&logoColor=white)
 
