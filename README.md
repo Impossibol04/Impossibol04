@@ -78,7 +78,7 @@ I take particular care in writing **clean, maintainable code** and I'm always lo
 
 ---
 
-<details>
+<details open>
 <summary><h2>🇫🇷 Version française</h2></summary>
 
 ## 👤 À propos de moi
