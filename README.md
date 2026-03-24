@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7289DA&center=true&vCenter=true&width=500&lines=Building+intelligent+Discord+bots+%F0%9F%A4%96;Exploring+offensive+%26+defensive+security+%F0%9F%94%90;Writing+clean+%26+scalable+Python+code+%F0%9F%90%8D;Always+learning%2C+always+building+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
 
-[🇬🇧 English](#-english-version) • [🇫🇷 Français](#-version-française)
+**[🇬🇧 English](#-english-version) • [🇫🇷 Français](#-version-française)**
 
 </div>
 
